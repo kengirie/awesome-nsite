@@ -23,6 +23,7 @@ A collection of tools, apps and other stuff for using the nsite spec (NIP-5A) wh
 - [nsite-action](https://github.com/sandwichfarm/nsite-action) A Github action that deploys nsites to nostr and blossom (using nsyte)
 - [nsite debugger](https://nsite.info/debug) A tool to debug nsites.
 - [bouquet-android](https://github.com/kengirie/bouquet-android) Android app for viewing nsites, communicating directly with relays and Blossom
+- [nsite.run deployer and manager](https://nsite.run/deploy) Simple web-based nsite deployments and nsite management tool. 
 
 ## Available nsite hosts / gateways
 
